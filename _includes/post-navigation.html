@@ -1,0 +1,25 @@
+<nav class="post-navigation" aria-label="Post navigation">
+  {%- if page.previous -%}
+    <a class="post-navigation-card post-navigation-card--previous" href="{{ page.previous.url | relative_url }}" rel="prev">
+      <span class="post-navigation-label">← Previous post</span>
+      <span class="post-navigation-title">{{ page.previous.title | escape }}</span>
+    </a>
+  {%- else -%}
+    <span class="post-navigation-card post-navigation-card--previous post-navigation-card--disabled" aria-disabled="true">
+      <span class="post-navigation-label">← Previous post</span>
+      <span class="post-navigation-title">No previous post</span>
+    </span>
+  {%- endif -%}
+
+  {%- if page.next -%}
+    <a class="post-navigation-card post-navigation-card--next" href="{{ page.next.url | relative_url }}" rel="next">
+      <span class="post-navigation-label">Next post →</span>
+      <span class="post-navigation-title">{{ page.next.title | escape }}</span>
+    </a>
+  {%- else -%}
+    <span class="post-navigation-card post-navigation-card--next post-navigation-card--disabled" aria-disabled="true">
+      <span class="post-navigation-label">Next post →</span>
+      <span class="post-navigation-title">No next post</span>
+    </span>
+  {%- endif -%}
+</nav>
