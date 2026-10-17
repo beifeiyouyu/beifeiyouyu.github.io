@@ -34,5 +34,3 @@ As a non-native English speaker, my writing and speaking are catastrophic. Hopin
 ## 结尾
 
 在这里写下这次的收获、遗留问题和下一步计划。
-
-[github-profile]: https://github.com/beifeiyouyu
