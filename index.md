@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "文章列表"
+list_title: "blog list"
 ---
 
 Welcome to my blog!
