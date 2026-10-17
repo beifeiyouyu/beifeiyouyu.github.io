@@ -10,6 +10,7 @@ I'm **Felyne**, currently a first-year master student of Shanghai top3 Universit
 Maybe my field of my study is VLA, referring to vision-language-action, a quiet popular topic recently. However, i'm a totally layman of research and not interested in it at all.
 
 -Forgiving me for not revealing the specific school, i don't want to show too much information online.
+{: .text-note}
 
 For a detailed introduction about me, just click the "**About me**" link in the top-right corner.
 

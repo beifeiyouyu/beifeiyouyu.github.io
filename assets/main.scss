@@ -132,3 +132,8 @@ a.post-navigation-card:focus-visible {
     gap: 12px;
   }
 }
+
+// Muted remarks marked with a Kramdown text-note class.
+.text-note {
+  color: #666666;
+}
