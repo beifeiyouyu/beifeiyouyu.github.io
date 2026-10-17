@@ -1,0 +1,16 @@
+---
+layout: home
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/home-profile.css' | relative_url }}">
+
+<div class="home-intro">
+  <div class="home-intro-text">
+    {{ content }}
+  </div>
+
+  <aside class="home-profile" aria-label="Personal profile">
+    {% capture profile_content %}{% include profile.md %}{% endcapture %}
+    {{ profile_content | markdownify }}
+  </aside>
+</div>
