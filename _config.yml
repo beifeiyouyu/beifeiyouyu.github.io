@@ -1,0 +1,18 @@
+title: "my personal blog"
+description: "record everyday life for fun"
+author: "Felyne0826"
+
+url: "https://beifeiyouyu.github.io"
+baseurl: ""
+
+theme: minima
+lang: zh-CN
+timezone: Asia/Shanghai
+
+permalink: /posts/:title/
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
