@@ -1,0 +1,33 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- capture title_image -%}{%- include site-title-image.md -%}{%- endcapture -%}
+
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      <span class="site-title-text">{{ site.title | escape }}</span>
+      <span class="site-title-image" aria-hidden="true">{{ title_image | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
+    </a>
+
+    {%- if page_paths -%}
+      <nav class="site-nav" aria-label="Main navigation">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger" aria-label="Toggle navigation">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 14" width="18" height="14" aria-hidden="true" focusable="false">
+              <path d="M0 0h18v2H0z M0 6h18v2H0z M0 12h18v2H0z" />
+            </svg>
+          </span>
+        </label>
+        <div class="trigger">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
