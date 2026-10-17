@@ -36,7 +36,3 @@ As a non-native English speaker, my writing and speaking are catastrophic. Hopin
 Although i'd say i'm quiet fond of playing video games and wathing the video, what bothers me is that i can't enjoy these at ease with myself(refer to "心安理得" in chinese) at dormitory, due to various psychological factors to play. However, i find that once i come to the workplace, the phone, the computer and everything becomes much enjoyable.
 
 Today i just using codex to construct this blog through about 4h(?), most of the time spending on the modification of the format. I'm quiet satisfied with it, and maybe add some more functions in the future.
-
-## 结尾
-
-在这里写下这次的收获、遗留问题和下一步计划。
