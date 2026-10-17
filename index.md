@@ -40,11 +40,11 @@ list_title: "blog list"
   <div class="home-intro-text">
     <p>Welcome to my blog!</p>
 
-    <p>I'm currently a first-year master student of Shanghai top3 University, majoring in automation.</p>
+    <p>I'm <strong>Felyne<strong>, currently a first-year master student of Shanghai top3 University, majoring in automation.</p>
 
     <p>Maybe my field of my study is VLA, referring to vision-language-action, a quiet popular topic recently. However, i'm a totally layman of research and not interested in it at all.</p>
 
-    <p>-Forgiving me for not revealing the specific school, i don't want to show too much information online</p>
+    <p>-Forgiving me for not revealing the specific school, i don't want to show too much information online.</p>
 
     <p>For a detailed introduction about me, just click the "about me" link in the top-right corner.</p>
 
