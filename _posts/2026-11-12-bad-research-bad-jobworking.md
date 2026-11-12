@@ -11,13 +11,13 @@ Thursday, a lit bit Rainy
 Now, i'm blogging at the Jinjiang Hotel in the Pudong New Area.
 Why? Keep reading
 
-## work-life balance
+## work-life-balance
 
 Long time ago, when i browse the red book's posts where is filled of well-groommed socialites, i encountered an abbreviation "WLB", 
 which refers to "Work - Life - Balance".
 
 As a totally student, i've never truly entered society and experienced working. I have no idea about work at all. 
-Sometimes when i browse the posts about someone complaining about their job and work, i totally scoff at this ("对此完全嗤之以鼻" in chinese).
+Sometimes when i browse the posts about someone complaining about their job and work, i totally scoff at this ("对此完全嗤之以鼻" in chinese),
 as at that time, i was working on a cross-functional project which was totally trash.
 I couldn't get any money, the mentor knew nothing about technical details, and a lot of time was spent on pointless communcation.
 
@@ -33,14 +33,14 @@ However now, i change my mind.
 Start from the beginning, every once in a while, my attitude will totally change.
 
 
-**Stage 1 - undergraduate Grade 3~4: **
+**Stage 1 - undergraduate Grade 3~4**: 
 
 I was very very afraid of working, and always worried about not getting a quota of guaranteed graduate school spot, because i just got high gpa, without any competitions or research paper bonus. I often had trouble sleeping, and need melatonin to fall asleep.
 
 My mindset was really off too, jealous about other's results, worried about other's overall ranking higher than me, envious of others being able to better schools PHD or master, and finally wonder what could happen if i seized some opportunities. Over and over again.
 
 
-**Stage 2 - undergraduate Grade 4 - joing the group in advance: **
+**Stage 2 - undergraduate Grade 4 - joing the group in advance**: 
 
 At that time, i came into contact with the most disgusting job of master student - **cross-functional projects** ("横向" in chinese). I think every chinese master or PHD students understand how i feel. 99% of cross-functional projects are totally meaningless, unless your mentor is a industry expert and has a wide circle of connection with enterprises, and you can do something high-end. 
 
@@ -52,7 +52,7 @@ And sometimes the mentor will PUA: through doing cross-functional projects, you 
 
 **Nonesense**
 
-**Stage 3 - Master Grade 1 - learning at a high-end startup: **
+**Stage 3 - Master Grade 1 - learning at a high-end startup**: 
 
 Getting rid of the cross-functional projects, i thought that my easygoing life would finally come. A new event has come up.
 
