@@ -11,7 +11,7 @@ Thursday, a lit bit Rainy
 Now, i'm blogging at the Jinjiang Hotel in the Pudong New Area.
 Why? Keep reading
 
-## work-life-balance
+## **Work-Life-Balance**
 
 Long time ago, when i browse the red book's posts where is filled of well-groommed socialites, i encountered an abbreviation "WLB", 
 which refers to "Work - Life - Balance".
